@@ -8,12 +8,16 @@ Si oui, vous pouvez directement aller à l'étape **Vos premiers pas avec Ubiant
 Si non, commencer par l'étape **L'application** afin de télécharger celle-ci et de vous créer un compte.
 
 ## L'Application
+
 -----
+
 Il est possible que vous n'ayez pas encore téléchargé notre application.
 Dans ce cas, elle est disponnible:
 Ici pour Android: [Google play](https://play.google.com/store/apps/details?id=com.ubiant.flexom&hl=fr)
 Ici pour Ios:  [Apple store](https://itunes.apple.com/fr/app/flexom-2-0/id1126876479?mt=8)
+
 -----
+
 ## Vos premiers pas avec Ubiant
 Nous considérons que vous avez passé l'étape d'authentification qui vous permettra de récupérer vos identifiants d'accès.
 Si non, référez vous à la documentation ci-dessous
