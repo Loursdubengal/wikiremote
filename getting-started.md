@@ -2,6 +2,7 @@
 -----
 
 ## Bienvenue
+-----
 
 Bienvenue sur la documentation des APIS d'Ubiant.
 Si ce sont vos premiers pas avec Ubiant, vous êtes au bon endroit.
@@ -12,6 +13,7 @@ Si non, commencer par l'étape [L'application](http://192.168.203.128/getting-st
 -----
 
 ## L'Application
+-----
 
 Il est possible que vous n'ayez pas encore téléchargé notre application.
 Dans ce cas, elle est disponnible:
