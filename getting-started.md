@@ -4,7 +4,7 @@
 Bienvenue sur la documentation des APIS d'Ubiant.
 Si ce sont vos premiers pas avec Ubiant, vous êtes au bon endroit.
 Vous disposez déjà d'un compte?
-Si oui, vous pouvez directement aller à l'étape **Vos premiers pas avec Ubiant**
+Si oui, vous pouvez directement aller à l'étape **[Vos premiers pas avec Ubiant](#Vos premiers pas avec Ubiant)**
 Si non, commencer par l'étape **L'application** afin de télécharger celle-ci et de vous créer un compte.
 
 ## L'Application
