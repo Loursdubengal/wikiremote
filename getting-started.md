@@ -1,6 +1,11 @@
 # Getting-started
+-----
+Bienvenue sur la documentation des APIS d'Ubiant.
+Si ce sont vos premiers pas avec Ubiant, vous êtes au bon endroit.
+Il est possible que vous n'ayez pas encore téléchargé notre application.
+Disponnible ici pour Android: [Google play](https://play.google.com/store/apps/details?id=com.ubiant.flexom&hl=fr)
+ou ici pour Ios:  [Apple store](https://itunes.apple.com/fr/app/flexom-2-0/id1126876479?mt=8)
 [Authentification](/authentification)
-[Authentification](http://localhost/authentification)
 
 -----
 
